@@ -9,9 +9,9 @@
 <!--		<relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
 	</parent>
 	<groupId>online.flyingfish</groupId>
-	<artifactId>dubbo-demo</artifactId>
+	<artifactId>microdubbo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dubbo-demo</name>
+	<name>microdubbo</name>
 	<packaging>pom</packaging>
 	<description>RPC demo project for Spring Boot</description>
 
